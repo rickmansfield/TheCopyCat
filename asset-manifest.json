@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/TheCopyCat/static/css/main.523f09c5.chunk.css",
+    "main.js": "/TheCopyCat/static/js/main.730a0b97.chunk.js",
+    "main.js.map": "/TheCopyCat/static/js/main.730a0b97.chunk.js.map",
+    "runtime-main.js": "/TheCopyCat/static/js/runtime-main.6e00a357.js",
+    "runtime-main.js.map": "/TheCopyCat/static/js/runtime-main.6e00a357.js.map",
+    "static/js/2.a7b9ccf9.chunk.js": "/TheCopyCat/static/js/2.a7b9ccf9.chunk.js",
+    "static/js/2.a7b9ccf9.chunk.js.map": "/TheCopyCat/static/js/2.a7b9ccf9.chunk.js.map",
+    "index.html": "/TheCopyCat/index.html",
+    "precache-manifest.127d5995724377f1e4edab9f44456b24.js": "/TheCopyCat/precache-manifest.127d5995724377f1e4edab9f44456b24.js",
+    "service-worker.js": "/TheCopyCat/service-worker.js",
+    "static/css/main.523f09c5.chunk.css.map": "/TheCopyCat/static/css/main.523f09c5.chunk.css.map",
+    "static/js/2.a7b9ccf9.chunk.js.LICENSE.txt": "/TheCopyCat/static/js/2.a7b9ccf9.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6e00a357.js",
+    "static/js/2.a7b9ccf9.chunk.js",
+    "static/css/main.523f09c5.chunk.css",
+    "static/js/main.730a0b97.chunk.js"
+  ]
+}
