@@ -1,3 +1,9 @@
+Newbies... remember to transfer this code from your local environment to git pages you must run a buld in node and then make a few minor changes to tell git where to send your viewers. 
+To learn more go here and scroll to "GitHub Pages" or other hosting that you use like AWS, Firebase, Azure etc. 
+Coding High Fives all around. 
+
+Remember your enery flows to where you focus goes. 
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
